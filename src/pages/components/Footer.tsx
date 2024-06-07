@@ -13,7 +13,7 @@ const Footer: FC<FooterProps> = () => {
      dark:text-white md:text-sm bottom-0 left-0 right-0 absolute text-neutral-500 dark:text-neutral-500"
     >
         <p>{"made with <3 by me"}</p>
-        <a href="https://github.com/dannykd/dannydoan.dev">source↗</a>
+        <a href="https://github.com/illiadovgan/Illiaportfolio">source↗</a>
     </motion.div>
 
 
